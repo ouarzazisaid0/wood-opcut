@@ -3,3 +3,4 @@ uvicorn
 requests
 python-dotenv
 rich
+opcut==0.4.16
