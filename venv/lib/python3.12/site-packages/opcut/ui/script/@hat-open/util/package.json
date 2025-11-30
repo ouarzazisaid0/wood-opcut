@@ -1,0 +1,10 @@
+{
+    "name": "@hat-open/util",
+    "version": "0.6.16",
+    "description": "Hat utility library",
+    "homepage": "http://hat-open.com",
+    "license": "Apache-2.0",
+    "type": "module",
+    "main": "index.js",
+    "repository": "https://github.com/hat-open/hat-util.git"
+}

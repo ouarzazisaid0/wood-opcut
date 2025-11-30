@@ -1,0 +1,7 @@
+Wheel-Version: 1.0
+Generator: mkwhl
+Root-Is-Purelib: true
+Tag: cp311-none-manylinux_2_24_x86_64
+Tag: cp313-none-manylinux_2_24_x86_64
+Tag: cp310-none-manylinux_2_24_x86_64
+Tag: cp312-none-manylinux_2_24_x86_64
