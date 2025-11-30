@@ -1,0 +1,46 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+pipenv/
+poetry.lock
+
+# Environment variables
+*.env
+
+# --- FastAPI / Uvicorn ---
+instance/
+*.db
+*.sqlite3
+
+# --- Cache files ---
+*.log
+*.pot
+*.pyc
+*.pkl
+.cache/
+pytest_cache/
+.mypy_cache/
+.pytest_cache/
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Railway ---
+railway.toml.local
