@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 requests
-python-dotenv
 rich
+python-dotenv
 opcut==0.4.16
